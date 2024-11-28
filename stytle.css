@@ -1,0 +1,27 @@
+html {
+  background: darkgray;
+}
+
+body {
+  width: 600px;
+  border: 1px solid gray;
+  background: white;
+  margin: auto;
+  padding: 30px 50px;
+}
+
+#form {
+  width: 50%;
+  border: 1.5px solid green;
+  border-radius: 10px;
+}
+
+.thermometer {
+  height: 100px;
+  width: 50px;
+  vertical-align: middle;
+}
+
+a {
+  padding-left: 250px;
+}
